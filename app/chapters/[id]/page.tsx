@@ -10,8 +10,13 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function ChapterPage({ params }: { params: { id: string } }) {
-  const chapterId = parseInt(params.id);
+export default async function ChapterPage({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}) {
+  const { id } = await params;
+  const chapterId = parseInt(id);
   
   if (isNaN(chapterId) || chapterId < 1 || chapterId > getTotalChapters()) {
     notFound();
