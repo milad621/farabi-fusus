@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Amiri } from "next/font/google";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 const inter = Inter({
@@ -18,6 +20,13 @@ const amiri = Amiri({
 export const metadata: Metadata = {
   title: "Fusus al-Hikam | فصوص الحکمة",
   description: "Abu Nasr al-Farabi's Bezels of Wisdom - 70 philosophical chapters in Arabic, Persian, and English",
+  keywords: "Farabi, philosophy, Islamic philosophy, metaphysics, theology, Arabic texts, Persian texts",
+  authors: [{ name: "Abu Nasr al-Farabi" }],
+  openGraph: {
+    title: "Fusus al-Hikam - Bezels of Wisdom",
+    description: "70 philosophical chapters by Abu Nasr al-Farabi in Arabic, Persian, and English",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
@@ -27,8 +36,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${inter.variable} ${amiri.variable}`}>
-      <body className="font-inter antialiased">
-        {children}
+      <body className="font-inter antialiased flex flex-col min-h-screen">
+        <Navbar />
+        <div className="flex-grow">
+          {children}
+        </div>
+        <Footer />
       </body>
     </html>
   );
