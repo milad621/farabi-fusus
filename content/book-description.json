@@ -1,0 +1,99 @@
+{
+  "title": {
+    "ar": "فصوص الحکم",
+    "fa": "فصوص الحکمه",
+    "en": "Fusus al-Hikam (Bezels of Wisdom)"
+  },
+  "author": {
+    "ar": "أبو نصر محمد الفارابي",
+    "fa": "ابونصر محمد فارابی",
+    "en": "Abu Nasr Muhammad al-Farabi (c. 870–950 CE)"
+  },
+  "authorTitle": {
+    "ar": "المعلم الثاني",
+    "fa": "معلم ثانی",
+    "en": "The Second Teacher (after Aristotle)"
+  },
+  "description": {
+    "ar": "فصوص الحکم رسالة فلسفية وكلامية مختصرة منسوبة إلى أبي نصر الفارابي، تتألف من سبعين فصلاً قصيراً تتناول إثبات وجود الله تعالى وصفاته وأفعاله، ونظام صدور الموجودات عنه، والعقل الفعّال ودوره في المعرفة الإنسانية، والنبوة والوحي، والمدينة الفاضلة والسعادة الإنسانية.",
+    "fa": "فصوص‌الحکمه رساله‌ای فلسفی و کلامی کوتاه منسوب به ابونصر فارابی است که از هفتاد فصل کوتاه تشکیل شده و به مباحثی چون اثبات وجود خداوند، صفات و افعال الهی، نظام صدور موجودات، عقل فعال و نقش آن در شناخت انسانی، نبوت و وحی، مدینهٔ فاضله و سعادت انسان می‌پردازد. ترجمه و شرح فارسی این اثر توسط محیی‌الدین مهدی الهی قمشه‌ای انجام شده است.",
+    "en": "Fusus al-Hikam (Bezels of Wisdom) is a concise philosophical and theological treatise attributed to Abu Nasr al-Farabi, consisting of seventy short chapters (fusus). It systematically addresses the proof of God's existence, divine attributes and acts, the emanation of beings, the Active Intellect and its role in human knowledge, prophecy and revelation, the Virtuous City, and human happiness. The work belongs to the domain of special theology (al-ilahiyyat al-khassa) and represents a summary of Farabi's metaphysical system."
+  },
+  "themes": [
+    {
+      "id": "theology",
+      "label": {
+        "ar": "الإلهيات",
+        "fa": "الهیات",
+        "en": "Theology & Divine Attributes"
+      },
+      "chapterRange": [1, 21],
+      "description": {
+        "en": "Proof of God's existence, divine unity, simplicity, transcendence, knowledge, power, and will."
+      }
+    },
+    {
+      "id": "cosmology",
+      "label": {
+        "ar": "الكوسمولوجيا",
+        "fa": "کیهان‌شناسی",
+        "en": "Cosmology & Emanation"
+      },
+      "chapterRange": [22, 27],
+      "description": {
+        "en": "The emanation of intellects and celestial spheres from the Necessary Being."
+      }
+    },
+    {
+      "id": "epistemology",
+      "label": {
+        "ar": "المعرفة والنبوة",
+        "fa": "معرفت‌شناسی و نبوت",
+        "en": "Epistemology & Prophecy"
+      },
+      "chapterRange": [28, 35],
+      "description": {
+        "en": "The Active Intellect, its role in human knowledge, prophecy, revelation, and the unity of philosophy and religion."
+      }
+    },
+    {
+      "id": "politics",
+      "label": {
+        "ar": "السياسة المدنية",
+        "fa": "سیاست مدنی",
+        "en": "Political Philosophy & Society"
+      },
+      "chapterRange": [36, 65],
+      "description": {
+        "en": "The Virtuous City, leadership, justice, education, art, cooperation, and types of imperfect cities."
+      }
+    },
+    {
+      "id": "eschatology",
+      "label": {
+        "ar": "المعاد",
+        "fa": "معادشناسی",
+        "en": "Eschatology & the Soul"
+      },
+      "chapterRange": [66, 70],
+      "description": {
+        "en": "The fate of the soul after death, conditions for immortality, and the ultimate purpose of philosophy."
+      }
+    }
+  ],
+  "attributionNote": {
+    "en": "The attribution of this work to al-Farabi is a subject of scholarly debate. Some researchers consider it authentically Farabian, while others classify it as pseudo-Farabian. Max Horten produced a substantial German commentary on the text. Regardless of authorship questions, the content closely reflects al-Farabi's metaphysical and political philosophy as known from his authenticated works."
+  },
+  "contentNote": {
+    "en": "The Arabic text presented here consists of summarized paraphrases of the chapter themes, not a critical transcription from an original manuscript. The Persian translations similarly represent thematic summaries. The English translations are provided for accessibility. Readers seeking the critical Arabic text should consult Max Horten's edition or the Persian edition by Elahi Ghomshei published by Ayat-e Eshraq Press."
+  },
+  "persianTranslator": {
+    "fa": "محیی‌الدین مهدی الهی قمشه‌ای",
+    "en": "Mohi al-Din Mehdi Elahi Ghomshei"
+  },
+  "publisher": {
+    "fa": "انتشارات آیت اشراق",
+    "en": "Ayat-e Eshraq Press"
+  },
+  "totalChapters": 70
+}

@@ -1,0 +1,982 @@
+[
+  {
+    "id": 1,
+    "section": "theology",
+    "title": {
+      "ar": "في إثبات واجب الوجود",
+      "fa": "در اثبات وجود واجب‌الوجود",
+      "en": "On Proving the Existence of the Necessary Being"
+    },
+    "content": {
+      "ar": "إنّ الموجوداتَ إمّا واجبةُ الوجودِ بذاتها، وإمّا ممكنةُ الوجودِ بذاتها. فالواجبُ الوجودِ هو الذي لا يمكنُ عدمُه، والممكنُ الوجودِ هو الذي يمكنُ وجودُه وعدمه. والواجبُ الوجودِ هو مبدأُ كلِّ موجودٍ، وهو واحدٌ لا شريكَ له، بسيطٌ لا تركيبَ فيه، كاملٌ لا نقصَ فيه.",
+      "fa": "موجودات یا واجب‌الوجود به ذات‌اند یا ممکن‌الوجود به ذات. واجب‌الوجود آن است که عدم برایش ممکن نیست، و ممکن‌الوجود آن است که وجود و عدم برایش ممکن است. واجب‌الوجود مبدأ همهٔ موجودات است، یگانه است و شریکی ندارد، بسیط است و ترکیبی در او نیست، کامل است و نقصی در او راه ندارد.",
+      "en": "Beings are either necessary in existence by their own essence, or contingent in existence by their own essence. The Necessary Being is that whose non-existence is impossible, and the contingent being is that whose existence and non-existence are both possible. The Necessary Being is the principle of every existent; It is one without any partner, simple without any composition, perfect without any deficiency."
+    }
+  },
+  {
+    "id": 2,
+    "section": "theology",
+    "title": {
+      "ar": "في إثبات وحدانية واجب الوجود",
+      "fa": "در اثبات یگانگی واجب‌الوجود",
+      "en": "On Proving the Oneness of the Necessary Being"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ لا يكونُ إلا واحداً، لأنّه لو كانَ اثنين، لكانَ بينهما مغايرةٌ، وهذهِ المغايرةُ إما من جهةِ الوجودِ أو من جهةِ ماهيةٍ زائدةٍ عليه، وكلّ ذلكَ يقتضي التركيب، والواجبُ لا تركيبَ فيه.",
+      "fa": "واجب‌الوجود نمی‌تواند جز یکی باشد، زیرا اگر دو تا باشند، باید بین آن‌ها تفاوتی باشد، و این تفاوت یا از جهت وجود است یا از جهت ماهیتی زائد بر وجود، و در هر دو صورت، ترکیب لازم می‌آید، و حال آن‌که واجب‌الوجود مرکب نیست.",
+      "en": "The Necessary Being can only be one, for if there were two, there would have to be a distinction between them. This distinction would be either from the aspect of existence or from the aspect of a quiddity superadded to existence. In both cases, composition would be entailed, yet the Necessary Being admits no composition."
+    }
+  },
+  {
+    "id": 3,
+    "section": "theology",
+    "title": {
+      "ar": "في بساطة واجب الوجود",
+      "fa": "در بساطت واجب‌الوجود",
+      "en": "On the Simplicity of the Necessary Being"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ بسيطٌ غيرُ مركبٍ، لأنّ كلّ مركّبٍ مفتقرٌ إلى أجزائه، وما يفتقرُ إلى غيرِه فليس بواجبِ الوجودِ، لأنّ الواجبَ لا يفتقرُ.",
+      "fa": "واجب‌الوجود بسیط و غیر مرکب است، زیرا هر مرکبی نیازمند اجزای خود است، و آن‌چه به غیر وابسته باشد، واجب‌الوجود نخواهد بود، چرا که واجب‌الوجود بی‌نیاز است.",
+      "en": "The Necessary Being is simple and non-composite, for every composite is dependent upon its parts, and whatever depends on something other than itself cannot be the Necessary Being, since the Necessary Being is self-sufficient."
+    }
+  },
+  {
+    "id": 4,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ واجب الوجود علّة لغيره",
+      "fa": "در این‌که واجب‌الوجود علّت همه چیز است",
+      "en": "On the Necessary Being as the Cause of All Else"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ لَمّا كانَ مبدأً لا يَحتاجُ إلى شيءٍ، وجبَ أن يكونَ علةً لغيرِه، وكلُّ ما سواهُ ممكنٌ محتاجٌ إليه، فوجودُ الممكناتِ صادرٌ عنه على جهةِ العليةِ.",
+      "fa": "چون واجب‌الوجود مبدئی است که به چیزی نیاز ندارد، پس باید علت غیر خود باشد، و هر چه جز اوست، ممکن و نیازمند به اوست؛ پس وجود ممکنات از او صادر می‌شود به‌عنوان علّت.",
+      "en": "Since the Necessary Being is a principle that needs nothing, it must be the cause of everything other than itself. All that is other than It is contingent and dependent upon It; thus the existence of contingent beings emanates from It by way of causation."
+    }
+  },
+  {
+    "id": 5,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ وجود الواجب عين ذاته",
+      "fa": "در اینکه وجود واجب‌الوجود عین ذات اوست",
+      "en": "On the Identity of Existence and Essence in the Necessary Being"
+    },
+    "content": {
+      "ar": "وجودُ الواجبِ ليسَ زائداً على ذاتِه، بل وجودُه عينُ ذاتِه، لأنّه لو كانَ وجودُه زائداً، لاحتاجَ إلى ما يُعطيه الوجود، وكلُّ محتاجٍ ممكنٌ، لا واجب.",
+      "fa": "وجودِ واجب‌الوجود زائد بر ذات او نیست، بلکه وجود او عین ذات اوست؛ زیرا اگر وجود او چیزی افزوده بر ذاتش می‌بود، نیازمند آن چیز می‌شد که وجود را به او دهد، و هر نیازمندی ممکن‌الوجود است، نه واجب‌الوجود.",
+      "en": "The existence of the Necessary Being is not superadded to Its essence; rather, Its existence is identical with Its essence. For if Its existence were something added, It would need something to bestow existence upon It, and whatever is in need is contingent, not necessary."
+    }
+  },
+  {
+    "id": 6,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ الواجب لا ماهية له سوى الوجود",
+      "fa": "در اینکه واجب‌الوجود ماهیت ندارد مگر همان وجود",
+      "en": "On the Necessary Being Having No Quiddity Other Than Existence"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ ليسَ له ماهيةٌ متميزةٌ عن وجودِه، فإنّ كلَّ ما له ماهيةٌ وُجدَ وجودُه زائداً عليها، فكانَ ممكناً، لا واجباً. فالواجبُ هو الذي لا ماهيةَ له سوى أن يكونَ موجوداً.",
+      "fa": "واجب‌الوجود ماهیتی جدای از وجود خود ندارد؛ زیرا هر آن‌که دارای ماهیت باشد، وجودش چیزی افزوده بر ماهیت او خواهد بود، و در نتیجه ممکن‌الوجود خواهد بود، نه واجب. پس واجب‌الوجود آن است که جز موجود بودن، ماهیتی ندارد.",
+      "en": "The Necessary Being has no quiddity distinct from Its existence. For whatever possesses a quiddity has an existence superadded to that quiddity, making it contingent rather than necessary. Thus the Necessary Being is that which has no quiddity other than being existent."
+    }
+  },
+  {
+    "id": 7,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ الواجب جوهر لا عرض",
+      "fa": "در اینکه واجب‌الوجود جوهر است نه عرض",
+      "en": "On the Necessary Being as Substance, Not Accident"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ لا يكونُ عرضاً، لأنّ العرضَ لا يقومُ بنفسِه، بل يحتاجُ إلى محلٍّ يقومُ فيه، وكلُّ ما يحتاجُ إلى غيرِه فليسَ بواجبِ الوجودِ، بل هو ممكن. فالواجبُ جوهرٌ قائمٌ بنفسِه.",
+      "fa": "واجب‌الوجود عرض نیست، زیرا عرض قائم به خود نیست و نیاز به محلی دارد که در آن باشد؛ و هر آن‌چه نیازمند به غیر باشد، واجب‌الوجود نخواهد بود، بلکه ممکن‌الوجود است. پس واجب‌الوجود جوهری است قائم به ذات خود.",
+      "en": "The Necessary Being cannot be an accident, for an accident does not subsist by itself but needs a substrate in which to inhere. Whatever needs something other than itself is not the Necessary Being but is contingent. Therefore the Necessary Being is a substance subsisting by Itself."
+    }
+  },
+  {
+    "id": 8,
+    "section": "theology",
+    "title": {
+      "ar": "في تنزيه الواجب عن المادة",
+      "fa": "در اینکه واجب‌الوجود از هرگونه ماده منزّه است",
+      "en": "On the Necessary Being's Transcendence Above Matter"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ منزّهٌ عن المادّةِ، لأنّ المادّةَ تقبلُ التغيرَ والتحوّلَ، وما كانَ كذلكَ فليسَ بواجبٍ، بل ممكن. والواجبُ لا يتغيّرُ ولا يتحوّلُ، فلا مادّةَ له.",
+      "fa": "واجب‌الوجود از ماده منزّه است، زیرا ماده پذیرای تغییر و دگرگونی است، و آن‌چه چنین باشد، نمی‌تواند واجب‌الوجود باشد، بلکه ممکن‌الوجود است. و چون واجب‌الوجود تغییر و دگرگونی نمی‌پذیرد، پس دارای ماده نیست.",
+      "en": "The Necessary Being is transcendent above matter, for matter is susceptible to change and transformation, and whatever is so is not necessary but contingent. Since the Necessary Being neither changes nor transforms, It possesses no matter."
+    }
+  },
+  {
+    "id": 9,
+    "section": "theology",
+    "title": {
+      "ar": "في تنزيه الواجب عن المكان والزمان",
+      "fa": "در اینکه واجب‌الوجود در هیچ مکان و زمان نیست",
+      "en": "On the Necessary Being's Transcendence Above Space and Time"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ لا يكونُ في مكانٍ ولا في زمانٍ، لأنّ كلَّ ما يكونُ في مكانٍ أو زمانٍ، فهو قابلٌ للانقضاءِ والحدوثِ، وما كانَ كذلكَ فهو ممكنٌ، لا واجب. فالواجبُ منزّهٌ عن الزمانِ والمكانِ.",
+      "fa": "واجب‌الوجود در مکان و زمان نیست، زیرا هر آن‌چه در مکان یا زمان باشد، پذیرای پایان‌پذیری و حادث‌شدن است، و آن‌چه این‌گونه باشد، ممکن‌الوجود است، نه واجب‌الوجود. پس واجب‌الوجود از زمان و مکان منزّه است.",
+      "en": "The Necessary Being is not in any place or time, for whatever is in a place or time is susceptible to finitude and origination, and whatever is so is contingent, not necessary. Therefore the Necessary Being is transcendent above time and space."
+    }
+  },
+  {
+    "id": 10,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ الواجب لا يتغيّر",
+      "fa": "در اینکه واجب‌الوجود تغییر نمی‌پذیرد",
+      "en": "On the Immutability of the Necessary Being"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ لا يتغيّرُ، لأنّ التغيّرَ إنّما يكونُ لمَن له حالٌ قبلَ التغيّرِ وحالٌ بعده، وهذا يدلُّ على النقصِ والحاجةِ، والواجبُ منزّهٌ عن ذلك. فكلُّ متغيّرٍ ممكنٌ، لا واجب.",
+      "fa": "واجب‌الوجود تغییر نمی‌پذیرد، زیرا تغییر مختص موجودی است که پیش از آن حالت خاصی داشته باشد و پس از آن حالتی دیگر. این دگرگونی نشانهٔ نقص و نیاز است، و واجب‌الوجود از این امور منزّه است. پس هر متغیری ممکن‌الوجود است، نه واجب.",
+      "en": "The Necessary Being does not change, for change belongs to that which has a state before the change and a state after it. Such alteration indicates deficiency and need, and the Necessary Being is transcendent above these. Therefore every changing thing is contingent, not necessary."
+    }
+  },
+  {
+    "id": 11,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ الواجب لا ضدّ له ولا نقيض",
+      "fa": "در اینکه واجب‌الوجود ضد و نقیض ندارد",
+      "en": "On the Necessary Being Having No Contrary or Opposite"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ لا ضدَّ له ولا نقيض، لأنّ الضدَّ والنقيضَ إنّما يكونان في الممكناتِ، لما فيها من القبولِ للعدمِ والتغيّرِ. وأمّا الواجبُ، فوجودُه لا يقبلُ العدمَ، ولا يتصوّرُ له ضدٌّ أو نقيض.",
+      "fa": "واجب‌الوجود نه ضد دارد و نه نقیض، زیرا ضد و نقیض مختص ممکنات‌اند، چون آن‌ها پذیرای عدم و دگرگونی هستند. اما وجودِ واجب، عدم‌پذیر نیست و تصور ضد یا نقیض برای او ممکن نیست.",
+      "en": "The Necessary Being has no contrary and no opposite, for contraries and opposites belong only to contingent things, which are susceptible to non-existence and change. The existence of the Necessary Being does not admit non-existence, and no contrary or opposite can be conceived for It."
+    }
+  },
+  {
+    "id": 12,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ الواجب علّة نظام العالم",
+      "fa": "در اینکه واجب‌الوجود علت نظم و ترتیب عالم است",
+      "en": "On the Necessary Being as the Cause of Cosmic Order"
+    },
+    "content": {
+      "ar": "لولا الواجبُ الوجودِ لم يكن للعالَمِ نظامٌ ولا ترتيبٌ، فإنّ الممكناتِ لا تنتظمُ بذاتِها، بل تحتاجُ إلى علّةٍ منظِّمةٍ تضعُ كلَّ شيءٍ في موضعِه. والواجبُ هو تلكَ العلّةُ التامّةُ للنظام.",
+      "fa": "اگر واجب‌الوجود نمی‌بود، جهانی با نظم و ترتیب پدید نمی‌آمد؛ زیرا ممکنات ذاتاً فاقد نظم‌اند و نیازمند علتی هستند که نظم را برقرار کند و هر چیزی را در جای خود قرار دهد. و این علت تامّه برای نظم، همان واجب‌الوجود است.",
+      "en": "Were it not for the Necessary Being, the world would have no order or arrangement, for contingent things do not organize themselves by their own nature but need an ordering cause that places everything in its proper station. The Necessary Being is that complete cause of cosmic order."
+    }
+  },
+  {
+    "id": 13,
+    "section": "theology",
+    "title": {
+      "ar": "في علم الواجب بذاته وبغيره",
+      "fa": "در اینکه علم واجب‌الوجود به ذات خویش و به غیر حاصل است",
+      "en": "On the Necessary Being's Knowledge of Itself and of Others"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ عالمٌ بذاتِه، وعلمُه بذاتِه عينُ ذاتِه، لأنّه ليسَ فيه تغايرٌ بينَ العالِمِ والمعلومِ والعلم. وهو أيضاً عالمٌ بسائرِ الموجوداتِ، إذ هي صادرةٌ عنه، فمعرفتُه لذاتهِ تتضمّنُ معرفتَه لما يصدرُ عنها.",
+      "fa": "واجب‌الوجود به ذات خویش علم دارد، و این علمْ عین ذات اوست، زیرا در او هیچ تمایزی میان عالم، معلوم، و علم وجود ندارد. همچنین او به همهٔ موجودات دیگر نیز عالم است، چرا که آن‌ها از او صادر شده‌اند، و علم او به ذات خویش، علم به هر آن‌چیزی است که از او نشأت گرفته است.",
+      "en": "The Necessary Being knows Its own essence, and Its knowledge of Itself is identical with Its essence, for in It there is no distinction between the knower, the known, and knowledge. It also knows all other beings, since they emanate from It; Its knowledge of Its own essence entails knowledge of everything that proceeds from It."
+    }
+  },
+  {
+    "id": 14,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ علم الواجب لا يتغيّر",
+      "fa": "در اینکه علم واجب‌الوجود تغییرناپذیر است",
+      "en": "On the Immutability of the Necessary Being's Knowledge"
+    },
+    "content": {
+      "ar": "علمُ الواجبِ لا يتغيّرُ بتغيّرِ المعلوماتِ، لأنّ علمَه ليسَ تابعاً لحدوثِها، بل هو علمٌ سابقٌ على وجودِها، إذ هي صادرةٌ عنه بعلمِه. فكلُّ علمٍ يتغيّرُ هو علمُ ممكنٍ، لا علمُ واجب.",
+      "fa": "علم واجب‌الوجود با تغییر معلومات دگرگون نمی‌شود، زیرا علم او تابع پیدایش آن‌ها نیست، بلکه علمی است که پیش از آن‌ها وجود دارد؛ چرا که موجودات به‌واسطهٔ علم او صادر شده‌اند. پس هر علمی که تغییر کند، علم ممکن‌الوجود است، نه علم واجب‌الوجود.",
+      "en": "The knowledge of the Necessary Being does not change with the changing of objects known, for Its knowledge does not follow from their coming-to-be but rather precedes their existence — since they emanate from It through Its knowledge. Every knowledge that changes is the knowledge of a contingent being, not of the Necessary Being."
+    }
+  },
+  {
+    "id": 15,
+    "section": "theology",
+    "title": {
+      "ar": "في قدرة الواجب المطلقة",
+      "fa": "در اینکه واجب‌الوجود قدرت مطلق دارد",
+      "en": "On the Absolute Power of the Necessary Being"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ قادرٌ على كلِّ شيءٍ ممكن، لأنّ الممكناتِ تَصدرُ عن إرادتِه وعلمِه، والقدرةُ فيه ليستْ شيئاً زائداً على ذاتِه، بل هي عينُ ذاتِه، كما أنّ علمَه كذلك.",
+      "fa": "واجب‌الوجود بر هر چیز ممکن قادر است، زیرا ممکنات به واسطهٔ اراده و علم او پدید آمده‌اند. قدرت در او چیزی افزوده بر ذات نیست، بلکه همانند علم، عین ذات اوست.",
+      "en": "The Necessary Being has power over every possible thing, for contingent beings proceed from Its will and knowledge. Power in It is not something superadded to Its essence; rather, like Its knowledge, it is identical with Its essence."
+    }
+  },
+  {
+    "id": 16,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ إرادة الواجب عين ذاته",
+      "fa": "در اینکه ارادهٔ واجب‌الوجود عین ذات اوست",
+      "en": "On the Will of the Necessary Being Being Identical with Its Essence"
+    },
+    "content": {
+      "ar": "إرادةُ الواجبِ ليستْ حادثةً ولا زائدةً على ذاتِه، بل هي عينُ ذاتِه، كما أنّ علمَه وقدرتَه كذلك. وما يَصدرُ عن الواجبِ، فإنّما يَصدرُ عنه بالإرادةِ التي لا تتغيّرُ، لأنّه منزَّهٌ عن الحوادثِ.",
+      "fa": "ارادهٔ واجب‌الوجود نه حادث است و نه چیزی افزوده بر ذات او، بلکه عین ذات اوست، همان‌گونه که علم و قدرتش نیز چنین‌اند. آنچه از واجب‌الوجود صادر می‌شود، به واسطهٔ اراده‌ای صادر می‌شود که تغییرناپذیر است، زیرا او از حوادث منزّه است.",
+      "en": "The will of the Necessary Being is neither originated nor superadded to Its essence; rather, it is identical with Its essence, just as Its knowledge and power are. Whatever proceeds from the Necessary Being proceeds through a will that does not change, for It is transcendent above temporal events."
+    }
+  },
+  {
+    "id": 17,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ الواجب علّة فاعلية وغائية",
+      "fa": "در اینکه واجب‌الوجود علت فاعلی و غایی موجودات است",
+      "en": "On the Necessary Being as Both Efficient and Final Cause"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ هو العلّةُ الفاعلةُ لكلّ ما سواه، وهو أيضاً علّةٌ غائيّةٌ، لأنّ كلَّ ما يَصدرُ عنه، فإنّما يَصدرُ لأجلِ الخيرِ والكمالِ، والغايةُ هي نفسُ الخيرِ المطلقِ، وهو ذاته.",
+      "fa": "واجب‌الوجود علّت فاعلی همهٔ موجودات دیگر است، و در عین حال علّت غایی نیز هست؛ زیرا هر آنچه از او صادر می‌شود، به خاطر خیر و کمال است. و غایت، همان خیر مطلق است که عین ذات اوست.",
+      "en": "The Necessary Being is the efficient cause of all that is other than It, and It is also the final cause, for whatever proceeds from It does so for the sake of the good and of perfection. The ultimate end is the absolute good itself, which is Its own essence."
+    }
+  },
+  {
+    "id": 18,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ الشرّ لا يصدر عن الواجب بالذات",
+      "fa": "در اینکه شرّ از واجب‌الوجود صادر نمی‌شود",
+      "en": "On Evil Not Proceeding from the Necessary Being Per Se"
+    },
+    "content": {
+      "ar": "الشرورُ ليستْ صادرةً عن الواجبِ بذاتِها، لأنّه لا يَصدرُ عنه إلا الخيرُ والكمالُ، وما يُسمّى شرّاً، فإنّما هو شرٌّ بالإضافةِ، أو لقصورِ القابلِ، لا لقصورِ الفاعلِ. فالشرُّ من جهةِ الممكنِ، لا من جهةِ الواجب.",
+      "fa": "شرور به‌طور ذاتی از واجب‌الوجود صادر نمی‌شوند، زیرا از او جز خیر و کمال صادر نمی‌گردد. آنچه شر نامیده می‌شود، یا شر نسبی است، یا ناشی از کاستی در قابل است، نه از نقص در فاعل. پس شرّ از سوی ممکنات است، نه از جانب واجب‌الوجود.",
+      "en": "Evils do not proceed from the Necessary Being per se, for from It nothing emanates except the good and perfection. What is called evil is either evil relatively, or due to the deficiency of the recipient, not the deficiency of the agent. Evil therefore comes from the side of the contingent, not from the Necessary Being."
+    }
+  },
+  {
+    "id": 19,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ الواجب هو الكامل المطلق",
+      "fa": "در اینکه واجب‌الوجود کامل مطلق است",
+      "en": "On the Necessary Being as Absolute Perfection"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ هو الكاملُ الذي لا يُتصوّرُ فوقَه كمالٌ، لأنّه لا نقصَ فيه، وكلُّ كمالٍ موجودٌ فيه على وجهٍ أشرفَ وأتمَّ ممّا يوجدُ في غيرِه. وما سواهُ إنّما يَبلغُ إلى الكمالِ بقدرِ ما يَقتربُ منه.",
+      "fa": "واجب‌الوجود کامل مطلق است، به‌گونه‌ای که هیچ کمالی فراتر از او متصور نیست؛ چرا که هیچ نقصی در او وجود ندارد، و هر کمالی که در دیگران هست، در او به‌گونه‌ای برتر و کامل‌تر وجود دارد. دیگر موجودات به اندازه‌ای که به او نزدیک می‌شوند، به کمال می‌رسند.",
+      "en": "The Necessary Being is absolute perfection, beyond which no perfection can be conceived, for there is no deficiency in It. Every perfection found in other things exists in It in a nobler and more complete manner. Other beings attain perfection only insofar as they approach It."
+    }
+  },
+  {
+    "id": 20,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ الواجب لا قوّة فيه ولا استعداد",
+      "fa": "در اینکه هیچ قوه و استعداد در واجب‌الوجود نیست",
+      "en": "On the Absence of Potentiality in the Necessary Being"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ ليسَ له قوّةٌ ولا استعدادٌ، لأنّ القوّةَ إنّما تكونُ فيما لم يَبلغْ الفعلَ بعدُ، وما فيه استعدادٌ فهو ناقصٌ. والواجبُ كاملٌ بالفعلِ من كلِّ وجهٍ، فلا مكانَ للقوّةِ فيه.",
+      "fa": "در واجب‌الوجود هیچ قوه یا استعدادی وجود ندارد، زیرا قوه مربوط به چیزی است که هنوز به فعلیت نرسیده، و آنچه دارای استعداد است، ناقص است. اما واجب‌الوجود از هر جهت بالفعل و کامل است، پس جایی برای قوه در او نیست.",
+      "en": "The Necessary Being has no potentiality or disposition, for potentiality belongs to that which has not yet reached actuality, and whatever has a disposition is deficient. The Necessary Being is actual and perfect in every respect, so there is no place for potentiality in It."
+    }
+  },
+  {
+    "id": 21,
+    "section": "theology",
+    "title": {
+      "ar": "في أنّ الواجب لا جسم ولا نفس",
+      "fa": "در اینکه واجب‌الوجود نه جسم است و نه نفس",
+      "en": "On the Necessary Being Being Neither Body Nor Soul"
+    },
+    "content": {
+      "ar": "الواجبُ الوجودِ لا يكونُ جسماً، لأنّ الجسمَ ذو أبعادٍ وأجزاءٍ، وكلُّ ما له أجزاءٌ فهو مركّبٌ، والواجبُ بسيطٌ. ولا يكونُ نفساً، لأنّ النفسَ تتعلّقُ بالجسمِ وتحتاجُ إليه، والواجبُ منزّهٌ عن الحاجةِ.",
+      "fa": "واجب‌الوجود نه جسم است، زیرا جسم دارای ابعاد و اجزاست، و هر آن‌چه اجزا دارد، مرکب است، و حال آن‌که واجب‌الوجود بسیط است. و نه نفس است، چرا که نفس وابسته به جسم است و به آن نیاز دارد، در حالی‌که واجب‌الوجود از هر نیازی منزّه است.",
+      "en": "The Necessary Being is not a body, for a body has dimensions and parts, and everything with parts is composite, whereas the Necessary Being is simple. Nor is It a soul, for the soul is attached to the body and needs it, whereas the Necessary Being is transcendent above all need."
+    }
+  },
+  {
+    "id": 22,
+    "section": "cosmology",
+    "title": {
+      "ar": "في أنّ الواجب سبب وجود العقل الأول",
+      "fa": "در اینکه واجب‌الوجود سبب وجود عقل اول است",
+      "en": "On the Necessary Being as the Cause of the First Intellect"
+    },
+    "content": {
+      "ar": "لمّا كانَ الواجبُ الوجودِ مبدأً لكلِّ ما سواهُ، كانَ أوّلُ ما صدرَ عنه هو العقلُ الأوّل، لأنّه أشرفُ الموجوداتِ الممكنةِ، وأقربُها إلى الواجبِ، وهو أوّلُ مَن قبلَ الفيضَ عن ذاتِه.",
+      "fa": "چون واجب‌الوجود مبدأ هر چیزی غیر از خود است، پس نخستین چیزی که از او صادر شده، عقل اول است؛ زیرا عقل اول شریف‌ترین و نزدیک‌ترین موجود ممکن به واجب‌الوجود است و نخستین کسی است که از ذات او فیض گرفته است.",
+      "en": "Since the Necessary Being is the principle of everything other than Itself, the first thing to emanate from It is the First Intellect, for it is the noblest and nearest of contingent beings to the Necessary Being, and the first to receive the overflow from Its essence."
+    }
+  },
+  {
+    "id": 23,
+    "section": "cosmology",
+    "title": {
+      "ar": "في صفات العقل الأول",
+      "fa": "در اینکه عقل اول دارای علم، اراده و عقلانیت است",
+      "en": "On the Attributes of the First Intellect"
+    },
+    "content": {
+      "ar": "العقلُ الأوّلُ لما كانَ صادراً عن الواجبِ، كانَ تامّاً في وجودِه، وله علمٌ بذاتِه وبمبدأه، وإرادةٌ لما ينبغي أن يصدرَ عنه. وعقلُه ليسَ كعقلِنا، بل هو عقلٌ بسيطٌ دائمٌ، لا يتغيّرُ ولا يزول.",
+      "fa": "عقل اول، چون از واجب‌الوجود صادر شده، وجودی کامل دارد و به ذات خویش و به مبدأ خود (یعنی واجب‌الوجود) علم دارد، و همچنین دارای اراده‌ای است نسبت به آنچه باید از او صادر گردد. عقل او مانند عقل ما نیست، بلکه عقلی است بسیط، پایدار، و تغییرناپذیر.",
+      "en": "The First Intellect, having emanated from the Necessary Being, is complete in its existence. It possesses knowledge of its own essence and of its principle, and it has a will regarding what should proceed from it. Its intellection is not like ours; rather, it is a simple, permanent intellection that neither changes nor perishes."
+    }
+  },
+  {
+    "id": 24,
+    "section": "cosmology",
+    "title": {
+      "ar": "في صدور الفلك الأعلى والعقل الثاني عن العقل الأول",
+      "fa": "در اینکه عقل اول سبب پیدایش فلک اعلی و عقل دوم است",
+      "en": "On the Emanation of the Supreme Sphere and Second Intellect from the First Intellect"
+    },
+    "content": {
+      "ar": "العقلُ الأوّلُ لمّا كانَ يدركُ ذاتَه وواجبَ الوجودِ، صدرَ عنه لأجلِ ذلكَ أمرانِ: أحدُهما عقلٌ ثانٍ، والثاني فلكٌ أعلى، لأنّه بإدراكِه لواجبِ الوجودِ يصدرُ عنه كمالٌ، وبإدراكِه لنفسِه يصدرُ عنه ما هو أدنى منه.",
+      "fa": "عقل اول، چون هم ذات خویش را درک می‌کند و هم واجب‌الوجود را، از او دو چیز صادر می‌شود: یکی عقل دوم، و دیگری فلک اعلی؛ زیرا از ادراک او نسبت به واجب‌الوجود، کمالی صادر می‌شود، و از ادراک او نسبت به خود، چیزی صادر می‌شود که مرتبه‌ای پایین‌تر دارد.",
+      "en": "Since the First Intellect contemplates both its own essence and the Necessary Being, two things emanate from it: a Second Intellect and the Supreme Celestial Sphere. From its contemplation of the Necessary Being proceeds something of higher perfection, and from its contemplation of itself proceeds something of a lower rank."
+    }
+  },
+  {
+    "id": 25,
+    "section": "cosmology",
+    "title": {
+      "ar": "في استمرار سلسلة الصدور",
+      "fa": "در اینکه عقل دوم نیز علتی برای عقل سوم و فلک دوم است",
+      "en": "On the Continuation of the Chain of Emanation"
+    },
+    "content": {
+      "ar": "وكذلكَ العقلُ الثاني يدركُ ذاتَه ويدركُ مبدأَه، وهو العقلُ الأوّل، فيصدرُ عنه عقلٌ ثالثٌ وفلكٌ ثانٍ، على نحوِ ما صدرَ عن الأوّل. وهذا الترتيبُ يستمرُّ حتّى يبلغَ إلى العقلِ الفعّالِ.",
+      "fa": "عقل دوم نیز مانند عقل اول، هم ذات خود را درک می‌کند و هم مبدأ خود (یعنی عقل اول) را، و از او نیز عقل سوم و فلک دوم صادر می‌شود؛ دقیقاً به همان ترتیبی که از عقل اول صادر شد. این ترتیب صدور تا رسیدن به عقل فعال ادامه می‌یابد.",
+      "en": "Likewise the Second Intellect contemplates its own essence and its principle (the First Intellect), and from it emanate a Third Intellect and a second sphere, in the same manner as the emanation from the First. This order of emanation continues until it reaches the Active Intellect."
+    }
+  },
+  {
+    "id": 26,
+    "section": "cosmology",
+    "title": {
+      "ar": "في العقل العاشر وهو العقل الفعّال",
+      "fa": "در اینکه عقل دهم همان عقل فعّال است",
+      "en": "On the Tenth Intellect as the Active Intellect"
+    },
+    "content": {
+      "ar": "العقلُ العاشرُ هو العقلُ الفعّالُ، وهو الذي يُفيضُ الصورَ على الهيولى، ويُدبّرُ عالمَ الكونِ والفسادِ، وهو الذي يَتّصلُ به الإنسانُ في نيلِ المعقولاتِ، وبه يُدرِكُ الكلياتِ، وهو مبدأُ العلمِ والتعليمِ.",
+      "fa": "عقل دهم همان عقل فعال است، و این عقل، صور را بر هیولی افاضه می‌کند و جهان کون و فساد (عالم زیر ماه) را تدبیر می‌نماید. انسان در ادراک معقولات با این عقل ارتباط برقرار می‌کند و به واسطهٔ آن کلیات را می‌فهمد. عقل فعال سرچشمهٔ علم و تعلیم است.",
+      "en": "The Tenth Intellect is the Active Intellect. It bestows forms upon prime matter and governs the world of generation and corruption (the sublunary world). It is through conjunction with this Intellect that the human being attains intelligibles and grasps universals. It is the source of knowledge and instruction."
+    }
+  },
+  {
+    "id": 27,
+    "section": "cosmology",
+    "title": {
+      "ar": "في أنّ العقل الفعّال واسطة بين الإنسان والعقول العليا",
+      "fa": "در اینکه عقل فعّال واسطه بین انسان و عقول بالاتر است",
+      "en": "On the Active Intellect as Intermediary Between Humans and Higher Intellects"
+    },
+    "content": {
+      "ar": "العقلُ الفعّالُ يُبلّغُ الإنسانَ إلى إدراكِ المعقولاتِ، وهو الواسطةُ بينَه وبينَ العقولِ المفارقةِ، فلا يتّصلُ الإنسانُ بالعقلِ الأوّلِ إلا بواسطةِ العقلِ الفعّالِ، وهو الذي يُفيضُ الصورَ والمعاني على النفسِ الإنسانيةِ.",
+      "fa": "عقل فعال انسان را به ادراک معقولات می‌رساند، و واسطه‌ای است میان انسان و عقول مفارق. انسان بدون عقل فعال نمی‌تواند با عقل اول یا دیگر عقول مفارق ارتباط یابد. عقل فعال است که صورت‌ها و معانی را بر نفس انسانی افاضه می‌کند.",
+      "en": "The Active Intellect brings the human being to the apprehension of intelligibles and serves as the intermediary between humans and the separate intellects. Without the Active Intellect, humans cannot connect with the First Intellect or the other separate intellects. It is the Active Intellect that bestows forms and meanings upon the human soul."
+    }
+  },
+  {
+    "id": 28,
+    "section": "epistemology",
+    "title": {
+      "ar": "في أنّ العقل الفعّال هو جبرئيل",
+      "fa": "در اینکه عقل فعّال همان جبرئیل است",
+      "en": "On the Active Intellect as Gabriel"
+    },
+    "content": {
+      "ar": "وقد سمّى بعضُ الحكماءِ هذا العقلَ الفعّالَ بالروحِ الأمينِ، وقالوا: هو جبرئيلُ الذي يُوحي إلى الأنبياءِ، لأنّه يُفيضُ المعانيَ الكليّةَ عليهم، ويُعرّفُهم الحقائقَ، كما يُفيضُها على سائرِ العقولِ والنفوسِ.",
+      "fa": "برخی از حکما عقل فعال را همان روح الامین نامیده‌اند، و گفته‌اند که او همان جبرئیل است که به پیامبران وحی می‌کند؛ زیرا او معانی کلی را بر آنان افاضه می‌کند و حقایق را به آنان می‌شناساند، همان‌گونه که بر دیگر عقول و نفوس نیز افاضه می‌کند.",
+      "en": "Some sages have called this Active Intellect the Trustworthy Spirit, and they say it is Gabriel who reveals to the prophets, for it bestows universal meanings upon them and acquaints them with realities, just as it bestows them upon all other intellects and souls."
+    }
+  },
+  {
+    "id": 29,
+    "section": "epistemology",
+    "title": {
+      "ar": "في كمال النفس بالاتصال بالعقل الفعّال",
+      "fa": "در اینکه نفس انسانی با عقل فعّال به کمال می‌رسد",
+      "en": "On the Perfection of the Soul Through Conjunction with the Active Intellect"
+    },
+    "content": {
+      "ar": "النفسُ الإنسانيّةُ تَبلغُ كمالَها باتّصالِها بالعقلِ الفعّالِ، فإذا تَحقّقَ لها ذلكَ، صارَتْ عقلاً بالفعلِ، وعلِمتْ الحقائقَ على وجهٍ كُلّيّ، وارتفعتْ عن المحسوساتِ، وصارتْ شبيهةً بالعقولِ المفارقةِ.",
+      "fa": "نفس انسانی به واسطهٔ اتصال با عقل فعال به کمال می‌رسد. وقتی این اتصال تحقق یابد، نفس بالفعل عقل می‌گردد، حقایق را به صورت کلی درمی‌یابد، از محسوسات فراتر می‌رود، و به عقول مفارق شباهت می‌یابد.",
+      "en": "The human soul reaches its perfection through conjunction with the Active Intellect. When this conjunction is realized, the soul becomes an actual intellect, apprehends realities in a universal manner, rises above sensible things, and comes to resemble the separate intellects."
+    }
+  },
+  {
+    "id": 30,
+    "section": "epistemology",
+    "title": {
+      "ar": "في أنّ السعادة في الاتصال الدائم بالعقل الفعّال",
+      "fa": "در اینکه سعادت انسان در پیوند دائمی با عقل فعال است",
+      "en": "On Happiness as Permanent Conjunction with the Active Intellect"
+    },
+    "content": {
+      "ar": "سعادةُ الإنسانِ التامّةُ هي أن يَتّصلَ بالعقلِ الفعّالِ اتّصالاً دائماً، فلا يَغيبُ عنهُ في يقظتِه ولا في منامِه، فيُدرِكُ الحقائقَ دائماً، ويَعيشُ في نورِ المعقولاتِ، ويُشبِهُ العقولَ المفارقةَ في خلودِه.",
+      "fa": "سعادت کامل انسان در آن است که به‌صورت دائمی با عقل فعال پیوند داشته باشد؛ به‌گونه‌ای که نه در بیداری و نه در خواب از آن جدا نشود. چنین انسانی همواره به ادراک حقایق مشغول است، در نور معقولات زندگی می‌کند، و به عقول مفارق در خلود و بقاء شباهت می‌یابد.",
+      "en": "The complete happiness of the human being is to be permanently conjoined with the Active Intellect, neither absent from it in waking nor in sleep. Such a person perpetually apprehends realities, lives in the light of intelligibles, and resembles the separate intellects in their immortality."
+    }
+  },
+  {
+    "id": 31,
+    "section": "epistemology",
+    "title": {
+      "ar": "في أنّ الأنبياء أكمل الناس اتصالاً بالعقل الفعّال",
+      "fa": "در اینکه پیامبران با عقل فعّال در تماس کامل‌اند",
+      "en": "On the Prophets as the Most Perfectly Conjoined with the Active Intellect"
+    },
+    "content": {
+      "ar": "الأنبياءُ هم أكملُ الناسِ اتّصالاً بالعقلِ الفعّالِ، لأنّهم يَتلقّونَ عنهُ الحقائقَ والمعانيَ الكليّةَ في حالِ اليقظةِ، لا في المنامِ فقط، ويُفيضُ عليهم الصورَ في قوالبَ حسيّةٍ ليفهمَها الناسُ.",
+      "fa": "پیامبران کامل‌ترین انسان‌ها در ارتباط با عقل فعال هستند، زیرا آن‌ها حقایق و معانی کلی را نه تنها در خواب بلکه در بیداری نیز از عقل فعال دریافت می‌کنند، و عقل فعال این معانی را در قالب‌های حسی بر آنان افاضه می‌کند تا برای مردم قابل فهم باشد.",
+      "en": "The prophets are the most perfectly conjoined of all people with the Active Intellect, for they receive realities and universal meanings from it in the waking state, not only in sleep. The Active Intellect bestows forms upon them in sensible molds so that the people may understand them."
+    }
+  },
+  {
+    "id": 32,
+    "section": "epistemology",
+    "title": {
+      "ar": "في منشأ الوحي من العقل الفعّال",
+      "fa": "در اینکه وحی پیامبران از عقل فعّال سرچشمه می‌گیرد",
+      "en": "On the Origin of Revelation from the Active Intellect"
+    },
+    "content": {
+      "ar": "الوحيُ الذي يَأتـي الأنبياءَ ليسَ من الخيالِ ولا من القوى النفسيّةِ، بل هو من العقلِ الفعّالِ، يُفيضُ عليهم الحقَّ، إمّا بصورٍ عقليّةٍ مجرّدةٍ، أو بصورٍ خياليّةٍ يُمثَّلُ بها المعنى لمن لا يُدركُه عقلاً.",
+      "fa": "وحی‌ای که بر پیامبران نازل می‌شود، از خیال یا قوه‌های نفسانی سرچشمه نمی‌گیرد، بلکه از عقل فعال است که حقیقت را بر آنان افاضه می‌کند؛ یا در قالب صور عقلی محض، یا در قالب صور خیالی که معنا را برای کسانی که آن را عقلاً درک نمی‌کنند، قابل دریافت سازد.",
+      "en": "The revelation that comes to the prophets is not from the imagination or the psychic faculties but from the Active Intellect, which bestows truth upon them — either in the form of pure intellectual forms or in imaginative forms that represent the meaning for those who cannot grasp it intellectually."
+    }
+  },
+  {
+    "id": 33,
+    "section": "epistemology",
+    "title": {
+      "ar": "في أنّ العقل الفعّال مبدأ إلهام الأولياء والحكماء",
+      "fa": "در اینکه عقل فعّال مبدأ الهام اولیاء و حکما نیز هست",
+      "en": "On the Active Intellect as the Source of Inspiration for Saints and Sages"
+    },
+    "content": {
+      "ar": "كما يُفيضُ العقلُ الفعّالُ على الأنبياءِ، كذلك يُفيضُ على الأولياءِ والحكماءِ، لكنْ لا على نحوِ النبوّةِ، بل في صورةِ إلهامٍ أو تأييدٍ، بحسبِ استعدادِ النفوسِ وتهذيبِها.",
+      "fa": "همان‌گونه که عقل فعال بر پیامبران افاضه می‌کند، بر اولیاء و حکما نیز فیض می‌رساند؛ اما نه به صورت نبوت، بلکه در قالب الهام یا تأیید، متناسب با آمادگی و تهذیب نفس ایشان.",
+      "en": "Just as the Active Intellect bestows upon the prophets, so too does it bestow upon the saints and the sages — not in the mode of prophecy, but in the form of inspiration or confirmation, according to the preparedness and purification of their souls."
+    }
+  },
+  {
+    "id": 34,
+    "section": "epistemology",
+    "title": {
+      "ar": "في أنّ الفلسفة والشريعة من مبدأ واحد",
+      "fa": "در اینکه فلسفه و شریعت از یک مبدأ سرچشمه می‌گیرند",
+      "en": "On Philosophy and Religion Sharing a Single Source"
+    },
+    "content": {
+      "ar": "الفلسفةُ والشريعةُ كلاهما يَصدُرانِ عن العقلِ الفعّالِ، فالشريعةُ تأتـي بصورٍ خياليّةٍ يفهمُها الجمهورُ، والفلسفةُ تأتي بصورٍ عقليّةٍ يدركُها الخواصُّ. فهما طريقانِ إلى الحقِّ، بحسبِ اختلافِ الاستعدادات.",
+      "fa": "فلسفه و شریعت هر دو از عقل فعال سرچشمه می‌گیرند؛ شریعت در قالب صور خیالی که عموم مردم توان فهم آن را دارند، و فلسفه در قالب صور عقلی که خواص آن را درک می‌کنند. هر دو راهی به سوی حقیقت‌اند، با توجه به تفاوت در ظرفیت‌های افراد.",
+      "en": "Philosophy and religion both proceed from the Active Intellect. Religion comes in imaginative forms that the general public can understand, and philosophy comes in intellectual forms that the elite can grasp. They are two paths to the truth, suited to the varying capacities of people."
+    }
+  },
+  {
+    "id": 35,
+    "section": "epistemology",
+    "title": {
+      "ar": "في أنّ النبي والفيلسوف والإمام الكامل في حقيقة واحدة",
+      "fa": "در اینکه پیامبر، فیلسوف و امام کامل در حقیقت یکی‌اند",
+      "en": "On the Prophet, Philosopher, and Perfect Imam as One in Reality"
+    },
+    "content": {
+      "ar": "النبيُّ، والفيلسوفُ، والإمامُ الكاملُ، إذا كَمُلَتْ فيهم القُوى الإنسانيّةُ واتّصلوا بالعقلِ الفعّالِ اتّصالاً تامّاً، صاروا مظهراً للحكمةِ الإلهيّةِ، يجمعونَ بينَ الشريعةِ والحكمةِ، ويَهْدُونَ الناسَ إلى السعادة.",
+      "fa": "پیامبر، فیلسوف، و امام کامل، اگر قوای انسانی‌شان به کمال برسد و با عقل فعال پیوندی کامل برقرار کنند، تجلی حکمت الهی می‌شوند. آنان شریعت و حکمت را با هم در خود دارند و مردم را به سوی سعادت راهنمایی می‌کنند.",
+      "en": "The prophet, the philosopher, and the perfect imam, when their human faculties reach perfection and they are fully conjoined with the Active Intellect, become manifestations of divine wisdom. They unite religion and philosophy in themselves and guide the people toward happiness."
+    }
+  },
+  {
+    "id": 36,
+    "section": "politics",
+    "title": {
+      "ar": "في تأسيس المدينة الفاضلة",
+      "fa": "در اینکه مدینهٔ فاضله تحت رهبری انسان کامل شکل می‌گیرد",
+      "en": "On the Founding of the Virtuous City Under the Perfect Leader"
+    },
+    "content": {
+      "ar": "المدينةُ الفاضلةُ هي التي يَترأّسُها إنسانٌ كاملٌ متّصلٌ بالعقلِ الفعّالِ، يُنظّمُ شؤونَها على أساسِ الحكمةِ والشريعةِ، ويُربّي أهلَها ليَسعوا إلى الكمالِ والسعادةِ القصوى، كما هو ساعٍ إليها.",
+      "fa": "مدینهٔ فاضله شهری است که در رأس آن انسانی کامل قرار دارد که با عقل فعال مرتبط است. او امور شهر را بر اساس حکمت و شریعت سامان می‌دهد و مردم را تربیت می‌کند تا همچون خودش در مسیر کمال و سعادت نهایی گام بردارند.",
+      "en": "The Virtuous City is one led by a perfect human being who is conjoined with the Active Intellect. This leader organizes its affairs on the basis of wisdom and divine law, and educates its people so that they strive toward perfection and ultimate happiness, as does the leader."
+    }
+  },
+  {
+    "id": 37,
+    "section": "politics",
+    "title": {
+      "ar": "في تشبيه المدينة الفاضلة بالجسد السليم",
+      "fa": "در اینکه مدینهٔ فاضله مانند بدن سالم با اعضای هماهنگ است",
+      "en": "On the Virtuous City as Analogous to a Healthy Body"
+    },
+    "content": {
+      "ar": "المدينةُ الفاضلةُ تُشبِهُ الجسدَ الكاملَ الذي تَخدمُ أعضاؤه كلُّها الرأسَ، وكلُّ عضوٍ يقومُ بوظيفتِه على أكملِ وجهٍ. فكذلكَ أهلُ المدينةِ الفاضلةِ، كلٌّ يعملُ لوظيفتِه، ويخدمُ الغايةَ العليا، وهي السعادةُ.",
+      "fa": "مدینهٔ فاضله مانند بدن کامل است که همه اعضایش در خدمت سر (رأس) هستند و هر عضوی وظیفهٔ خود را به بهترین شکل انجام می‌دهد. به همین ترتیب، مردم در مدینهٔ فاضله هر یک نقش خود را ایفا می‌کنند و در خدمت هدف نهایی‌اند که همان سعادت است.",
+      "en": "The Virtuous City resembles a complete body whose every organ serves the head, and each organ fulfills its function in the best manner. Likewise the people of the Virtuous City each perform their role and serve the ultimate goal, which is happiness."
+    }
+  },
+  {
+    "id": 38,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ البعد عن المدينة الفاضلة يوجب النقص",
+      "fa": "در اینکه هرچه از مدینهٔ فاضله دورتر باشد ناقص‌تر است",
+      "en": "On Distance from the Virtuous City Entailing Greater Deficiency"
+    },
+    "content": {
+      "ar": "المدنُ التي لا تُشبهُ المدينةَ الفاضلةَ، إمّا ناقصةٌ في تدبيرِها، أو فاسدةٌ في غاياتِها، وكلّما ازدادَ البُعدُ عنها، ازدادَ النقصُ والفسادُ، وصارتْ المدينةُ أشبهَ بالوحوشِ من الإنسانِ.",
+      "fa": "شهرهایی که به مدینهٔ فاضله شبیه نیستند، یا در تدبیر ناقص‌اند، یا اهدافی فاسد دارند. هرچه فاصله‌شان از مدینهٔ فاضله بیشتر باشد، نقص و فساد در آن‌ها بیشتر می‌شود، و آن شهر بیشتر به زندگی حیوانی نزدیک می‌شود تا انسانی.",
+      "en": "Cities that do not resemble the Virtuous City are either deficient in their governance or corrupt in their aims. The further they are from it, the greater the deficiency and corruption, and the more the city resembles the life of beasts rather than that of humans."
+    }
+  },
+  {
+    "id": 39,
+    "section": "politics",
+    "title": {
+      "ar": "في أنواع المدن غير الفاضلة",
+      "fa": "در انواع مدینه‌های غیر فاضله و ویژگی‌های آن‌ها",
+      "en": "On the Types of Non-Virtuous Cities"
+    },
+    "content": {
+      "ar": "المدنُ غيرُ الفاضلةِ أنواعٌ: منها المدينةُ الجاهلةُ التي يَجهلُ أهلُها السعادةَ الحقّةَ، ومنها المدينةُ الفاسقةُ التي يَعرفُ أهلُها السعادةَ لكن لا يعملونَ بها، ومنها المدينةُ الضالّةُ التي تَظنُّ أنّها فاضلةٌ وهي ليست كذلك.",
+      "fa": "مدینه‌های غیر فاضله انواع گوناگونی دارند: مدینهٔ جاهله، که مردم آن سعادت حقیقی را نمی‌شناسند؛ مدینهٔ فاسقه، که آن را می‌شناسند ولی به آن عمل نمی‌کنند؛ و مدینهٔ ضالّه، که گمان می‌برد فاضله است، در حالی که چنین نیست.",
+      "en": "Non-virtuous cities are of several kinds: the Ignorant City, whose people do not know true happiness; the Wicked City, whose people know happiness but do not act upon it; and the Errant City, which believes itself to be virtuous when it is not."
+    }
+  },
+  {
+    "id": 40,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ السعادة تتحقق في الاجتماع",
+      "fa": "در اینکه سعادت انسان در اجتماع تحقق می‌یابد",
+      "en": "On Happiness Being Realized in Society"
+    },
+    "content": {
+      "ar": "الإنسانُ لا يَبلغُ السعادةَ وحدَه، لأنّه محتاجٌ إلى التعاونِ مع غيرِه في نيلِ الكمالاتِ، ولهذا كانَ الاجتماعُ الإنسانيُّ ضروريّاً، والمدنيةُ الفاضلةُ وسيلةٌ لذلكَ. فباجتماعِ الناسِ تَتحقّقُ الغاياتُ العليا.",
+      "fa": "انسان به‌تنهایی به سعادت نمی‌رسد، زیرا برای رسیدن به کمال به همکاری با دیگران نیاز دارد. از این‌رو، زندگی اجتماعی برای انسان ضروری است، و مدینهٔ فاضله وسیله‌ای برای تحقق این امر است. سعادت نهایی از رهگذر اجتماع انسان‌ها ممکن می‌شود.",
+      "en": "The human being cannot attain happiness alone, for achieving perfections requires cooperation with others. Human society is therefore necessary, and the Virtuous City is the means for its realization. The highest ends are achieved through the gathering of people together."
+    }
+  },
+  {
+    "id": 41,
+    "section": "politics",
+    "title": {
+      "ar": "في صفات رئيس المدينة الفاضلة",
+      "fa": "در اینکه رهبری مدینهٔ فاضله نیازمند صفات خاصی است",
+      "en": "On the Qualities Required of the Leader of the Virtuous City"
+    },
+    "content": {
+      "ar": "رئيسُ المدينةِ الفاضلةِ لا بُدَّ أن يَكونَ أفضلَ أهلِها في العقلِ، والعلمِ، والحكمةِ، وأن يَكونَ متّصلاً بالعقلِ الفعّالِ، قادراً على تهذيبِ النفوسِ، وتدبيرِ الأمورِ، وإرشادِ الناسِ إلى الكمال.",
+      "fa": "رئیس مدینهٔ فاضله باید برترین فرد آن در عقل، علم، و حکمت باشد؛ با عقل فعال پیوند داشته باشد؛ توان تهذیب نفوس، تدبیر امور، و هدایت مردم به سوی کمال را داشته باشد.",
+      "en": "The leader of the Virtuous City must be the most excellent of its people in intellect, knowledge, and wisdom. They must be conjoined with the Active Intellect, capable of purifying souls, managing affairs, and guiding people toward perfection."
+    }
+  },
+  {
+    "id": 42,
+    "section": "politics",
+    "title": {
+      "ar": "في خلافة رئيس المدينة الفاضلة",
+      "fa": "در اینکه جانشین رئیس مدینهٔ فاضله نیز باید شبیه او باشد",
+      "en": "On the Succession of the Leader of the Virtuous City"
+    },
+    "content": {
+      "ar": "إذا غابَ الرئيسُ الأوّلُ أو ماتَ، وجبَ أن يَخلُفَه مَن يُشبهُهُ في الصفاتِ، من العقلِ، والحكمةِ، والاتصالِ بالعقلِ الفعّالِ، لكي لا تَنقطعَ الهدايةُ، ويَستمرَّ النظامُ الفاضلُ في المدينة.",
+      "fa": "اگر رئیس اول (رهبر مدینهٔ فاضله) غایب شود یا از دنیا برود، باید کسی جانشین او شود که در صفات، یعنی عقل، حکمت و اتصال با عقل فعال، شبیه او باشد؛ تا هدایت مردم قطع نشود و نظم فاضلهٔ شهر استمرار یابد.",
+      "en": "If the first leader is absent or dies, he must be succeeded by someone who resembles him in qualities — intellect, wisdom, and conjunction with the Active Intellect — so that guidance is not interrupted and the virtuous order of the city continues."
+    }
+  },
+  {
+    "id": 43,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ الحكم يجب أن يكون بالعقل والشرع",
+      "fa": "در اینکه حکومت باید بر پایه قانون و عقل باشد",
+      "en": "On Governance Being Based on Reason and Law"
+    },
+    "content": {
+      "ar": "الحكمُ في المدينةِ الفاضلةِ لا يكونُ بالهوى، بل بالشرعِ الصادرِ عن العقلِ الفعّالِ، والملكُ فيها هو خادمُ القانونِ، لا مستبدٌّ بالرأي. وكلُّ أمرٍ يُدبَّرُ فيها يجبُ أن يَرجعَ إلى الحكمةِ والعقلِ.",
+      "fa": "حکومت در مدینهٔ فاضله نباید بر پایهٔ هوا و هوس باشد، بلکه باید بر شریعتی استوار باشد که از عقل فعال سرچشمه گرفته است. پادشاه (رهبر) در آن‌جا خدمت‌گزار قانون است، نه کسی که به دلخواه خود حکومت کند. همه چیز باید بر اساس عقل و حکمت تدبیر شود.",
+      "en": "Governance in the Virtuous City is not by caprice but by the law that proceeds from the Active Intellect. The ruler is a servant of the law, not a despot acting on personal opinion. Every affair managed in the city must be referred back to wisdom and reason."
+    }
+  },
+  {
+    "id": 44,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ القوانين توضع لسعادة الإنسان الحقيقية",
+      "fa": "در اینکه قوانین باید برای سعادت حقیقی وضع شوند",
+      "en": "On Laws Being Established for True Human Happiness"
+    },
+    "content": {
+      "ar": "القوانينُ في المدينةِ الفاضلةِ لا تُوضَعُ لأجلِ المنفعةِ العاجلةِ أو اللذّةِ، بل لبلوغِ الإنسانِ إلى السعادةِ القصوى، وهي التمتّعُ بالمعقولاتِ واتّصالُ النفسِ بالعقلِ الفعّالِ.",
+      "fa": "قوانین در مدینهٔ فاضله برای نفع زودگذر یا لذت‌های مادی وضع نمی‌شوند، بلکه هدف آن‌ها رساندن انسان به سعادت نهایی است؛ یعنی بهره‌مندی از معقولات و پیوند یافتن نفس با عقل فعال.",
+      "en": "Laws in the Virtuous City are not established for immediate benefit or pleasure but for bringing the human being to ultimate happiness — the enjoyment of intelligibles and the conjunction of the soul with the Active Intellect."
+    }
+  },
+  {
+    "id": 45,
+    "section": "politics",
+    "title": {
+      "ar": "في التعليم التدريجي في المدينة الفاضلة",
+      "fa": "در اینکه تعلیم و تربیت باید عقلانی و تدریجی باشد",
+      "en": "On Gradual and Rational Education in the Virtuous City"
+    },
+    "content": {
+      "ar": "تربيةُ أهلِ المدينةِ الفاضلةِ تكونُ بالتدرّجِ من المحسوسِ إلى المعقولِ، ومن الصورِ الخياليّةِ إلى الحقائقِ العقليّةِ، ويَنبغي أن يُراعى في التعليمِ تفاوتُ الاستعداداتِ، حتى يَبلغَ كلٌّ إلى كمالِه الممكنِ.",
+      "fa": "تربیت مردم در مدینهٔ فاضله باید به‌صورت تدریجی باشد؛ از محسوسات به معقولات، و از صور خیالی به حقایق عقلی. همچنین باید تفاوت استعدادها در آموزش در نظر گرفته شود تا هر فرد به حدّ کمالی که برای او ممکن است، برسد.",
+      "en": "The education of the people in the Virtuous City proceeds gradually from the sensible to the intelligible, and from imaginative forms to intellectual realities. Differences in capacities must be taken into account in education so that each person reaches the perfection possible for them."
+    }
+  },
+  {
+    "id": 46,
+    "section": "politics",
+    "title": {
+      "ar": "في دور الفن والشعر في التربية",
+      "fa": "در اینکه هنر و شعر نقش تربیتی دارند",
+      "en": "On the Educational Role of Art and Poetry"
+    },
+    "content": {
+      "ar": "الشعرُ والخيالُ في المدينةِ الفاضلةِ يُستخدمانِ لتقريبِ المعاني العاليةِ إلى النفوسِ، ويُصاغانِ في صورٍ محبّبةٍ تُلهِمُ الفضيلةَ، لا اللذّةَ الفارغةَ، فيكونانِ وسيلةً للتهذيبِ لا للتلهيةِ.",
+      "fa": "شعر و خیال در مدینهٔ فاضله برای نزدیک کردن مفاهیم عالی به نفوس انسان‌ها به کار می‌روند. این‌ها در قالب‌های محبوب و زیبا ارائه می‌شوند تا الهام‌بخش فضیلت باشند، نه لذتِ بی‌محتوا. پس هنر وسیله‌ای برای تربیت است، نه سرگرمی صرف.",
+      "en": "Poetry and imagination in the Virtuous City are used to bring elevated meanings closer to souls. They are cast in beloved forms that inspire virtue, not empty pleasure. Thus art is a means of moral cultivation, not mere entertainment."
+    }
+  },
+  {
+    "id": 47,
+    "section": "politics",
+    "title": {
+      "ar": "في اتفاق الدين والفلسفة في المدينة الفاضلة",
+      "fa": "در اینکه دین و فلسفه باید هماهنگ باشند",
+      "en": "On the Harmony of Religion and Philosophy in the Virtuous City"
+    },
+    "content": {
+      "ar": "الدينُ الحقُّ والفلسفةُ الحقّةُ لا يتعارضانِ، لأنّ كليهما يَقصِدانِ الحقَّ، لكنْ يَختلفانِ في الطريقةِ: فالدينُ يُخاطبُ الجمهورَ بالتمثيلِ والتخييلِ، والفلسفةُ تُخاطبُ الخواصَّ بالبرهانِ والعقلِ.",
+      "fa": "دین حق و فلسفهٔ حقیقی با یکدیگر تعارض ندارند، زیرا هر دو در پی حقیقت‌اند، اما در روش تفاوت دارند: دین با تمثیل و خیال با مردم سخن می‌گوید، و فلسفه با برهان و عقل با خواص.",
+      "en": "True religion and true philosophy do not conflict, for both aim at the truth. They differ only in method: religion addresses the public through analogy and imagination, while philosophy addresses the elite through demonstration and reason."
+    }
+  },
+  {
+    "id": 48,
+    "section": "politics",
+    "title": {
+      "ar": "في ضرورة العقل النظري والعملي معاً",
+      "fa": "در اینکه عقل نظری و عقل عملی هر دو برای کمال لازم‌اند",
+      "en": "On the Necessity of Both Theoretical and Practical Intellect"
+    },
+    "content": {
+      "ar": "كمالُ الإنسانِ لا يتمُّ إلا باجتماعِ العقلِ النظريِّ الذي يُدرِكُ الحقائقَ، والعقلِ العمليِّ الذي يُدبّرُ الأفعالَ. فبالعقلِ النظريِّ يَبلغُ العلمَ، وبالعقلِ العمليِّ يَبلُغُ الفضيلةَ، وبهما يَستحقُّ السعادةَ.",
+      "fa": "کمال انسان تنها با پیوند عقل نظری و عقل عملی تحقق می‌یابد. با عقل نظری، انسان به درک حقایق می‌رسد، و با عقل عملی، کردار خویش را تدبیر می‌کند. به‌واسطهٔ این دو عقل است که انسان به فضیلت و در نهایت، به سعادت شایستهٔ خود نائل می‌شود.",
+      "en": "Human perfection is only complete through the union of the theoretical intellect, which apprehends realities, and the practical intellect, which governs actions. Through theoretical intellect one attains knowledge; through practical intellect one attains virtue. Through both together one deserves happiness."
+    }
+  },
+  {
+    "id": 49,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ تهذيب النفس شرط الاتصال بالعقل الفعّال",
+      "fa": "در اینکه بدون تهذیب نفس اتصال با عقل فعال ممکن نیست",
+      "en": "On Moral Purification as a Condition for Conjunction with the Active Intellect"
+    },
+    "content": {
+      "ar": "لا يَتّصلُ الإنسانُ بالعقلِ الفعّالِ إلا إذا نَقّى نفسَه من الشهواتِ، وتخلّقَ بالأخلاقِ الفاضلةِ، لأنّ النفسَ المظلمةَ لا تقبلُ نورَ المعقولاتِ، كما لا يَقبلُ المرآةُ الكدِرةُ صورةَ النورِ.",
+      "fa": "انسان تا زمانی که نفس خود را از شهوت‌ها پاک نکرده و به اخلاق فاضله آراسته نشده باشد، نمی‌تواند با عقل فعال ارتباط برقرار کند؛ زیرا نفس تیره، نور معقولات را نمی‌پذیرد، همان‌گونه که آینهٔ کدر، تصویر نور را بازتاب نمی‌دهد.",
+      "en": "A human being cannot conjoin with the Active Intellect unless they have purified their soul from appetites and adorned themselves with virtuous character, for a darkened soul does not receive the light of intelligibles, just as a tarnished mirror does not reflect the image of light."
+    }
+  },
+  {
+    "id": 50,
+    "section": "politics",
+    "title": {
+      "ar": "في تفاوت مراتب الناس في الاتصال بالعقل الفعّال",
+      "fa": "در اینکه مراتب انسان‌ها در اتصال با عقل فعال متفاوت است",
+      "en": "On the Varying Degrees of Human Conjunction with the Active Intellect"
+    },
+    "content": {
+      "ar": "الناسُ ليسوا سواءً في الاستعدادِ للاتّصالِ بالعقلِ الفعّالِ، فمنهم مَن يَبلغُ إلى الاتّصالِ الكاملِ فيَصيرُ نبيّاً أو حكيمًا، ومنهم مَن يَتّصلُ اتّصالاً ناقصًا، فيَبلُغُ مرتبةَ الفهمِ أو الظنِّ، ومنهم مَن لا يَتّصلُ أصلاً.",
+      "fa": "مردم در آمادگی برای اتصال به عقل فعال یکسان نیستند: برخی به اتصال کامل می‌رسند و به مرتبهٔ پیامبری یا حکمت نائل می‌شوند؛ برخی دیگر به صورت ناقص متصل می‌گردند و به فهم یا گمان می‌رسند؛ و گروهی نیز اصلاً به این اتصال دست نمی‌یابند.",
+      "en": "People are not equal in their readiness for conjunction with the Active Intellect. Some attain complete conjunction and become prophets or sages. Others achieve an incomplete conjunction, reaching only the level of understanding or opinion. And some do not attain conjunction at all."
+    }
+  },
+  {
+    "id": 51,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ الرؤيا وسيلة لنيل الفيض",
+      "fa": "در اینکه خواب و رؤیا وسیله‌ای برای دریافت فیض است",
+      "en": "On Dreams as a Means of Receiving Emanation"
+    },
+    "content": {
+      "ar": "النفسُ إذا لم تَتّصلْ بالعقلِ الفعّالِ في اليقظةِ، فقد تَتّصلُ به في النومِ، فيَردُ عليها صورٌ وتمثيلاتٌ تُشيرُ إلى المعاني، وهي الرؤى الصادقةُ التي تَحملُ دلالاتٍ من العالمِ الأعلى.",
+      "fa": "اگر نفس در بیداری نتواند با عقل فعال ارتباط یابد، ممکن است در خواب به آن متصل شود، و در آن حال، صورت‌ها و تمثیل‌هایی بر او وارد می‌گردد که به معانی برتر اشاره دارند. این رؤیاهای صادقه حامل نشانه‌هایی از جهان اعلی هستند.",
+      "en": "If the soul cannot connect with the Active Intellect in waking, it may connect with it in sleep, whereupon forms and representations descend upon it that point to higher meanings. These are the truthful visions that carry signs from the higher world."
+    }
+  },
+  {
+    "id": 52,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ النبوة أتمّ مراتب الاتصال",
+      "fa": "در اینکه نبوّت عالی‌ترین مرتبهٔ اتصال است",
+      "en": "On Prophecy as the Highest Degree of Conjunction"
+    },
+    "content": {
+      "ar": "النبوّةُ هي أتمُّ مراتبِ الاتّصالِ بالعقلِ الفعّالِ، إذ يَجتمعُ فيها الإدراكُ العقليُّ التامُّ مع التصويرِ الخياليِّ البليغِ، فيَرى النبيُّ الحقَّ في ذاتِه، ويُبلّغُه للناسِ بصورٍ تمثيليّةٍ مفهومةٍ.",
+      "fa": "نبوت کامل‌ترین مرتبهٔ اتصال با عقل فعال است، زیرا در آن، ادراک عقلی کامل با قدرت تصویرسازی خیالی عمیق همراه می‌شود. پیامبر حقیقت را مستقیماً درک می‌کند و آن را در قالب تمثیل‌هایی قابل فهم برای مردم انتقال می‌دهد.",
+      "en": "Prophecy is the most complete degree of conjunction with the Active Intellect, for in it complete intellectual apprehension is combined with eloquent imaginative representation. The prophet sees the truth in its essence and conveys it to the people in comprehensible analogical forms."
+    }
+  },
+  {
+    "id": 53,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ الوحي يحصل دفعة واحدة",
+      "fa": "در اینکه وحی به‌صورت دفعی حاصل می‌شود",
+      "en": "On Revelation Being Received All at Once"
+    },
+    "content": {
+      "ar": "الوحيُ الذي يَتلقّاهُ النبيُّ من العقلِ الفعّالِ لا يكونُ بالتدرّجِ كما في التعليمِ الفلسفيِّ، بل يَحصُلُ له دفعةً واحدةً، فيُدرِكُ الحقائقَ جملةً، ثمّ يُنزلُها على الناسِ بالتدريجِ بحسبِ عقولِهم.",
+      "fa": "وحی‌ای که پیامبر از عقل فعال دریافت می‌کند، تدریجی نیست مانند آموزش فلسفی، بلکه به‌صورت دفعی و کامل بر او وارد می‌شود. او حقایق را به‌صورت یکجا درمی‌یابد، سپس آن‌ها را به‌تدریج و متناسب با درک مردم منتقل می‌سازد.",
+      "en": "The revelation the prophet receives from the Active Intellect does not come gradually as in philosophical instruction but comes all at once. The prophet apprehends realities as a whole, then conveys them to the people gradually according to their capacities."
+    }
+  },
+  {
+    "id": 54,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ الشريعة توافق العقل",
+      "fa": "در اینکه شریعت نبوی باید مطابق عقل باشد",
+      "en": "On Prophetic Law Conforming to Reason"
+    },
+    "content": {
+      "ar": "الشريعةُ التي يَأتي بها النبيُّ لا تُخالِفُ العقلَ الصريحَ، بل تُوافقُهُ وتُبيّنهُ للناسِ في صورٍ تمثيليّةٍ، لأنّ العقلَ الفعّالَ لا يُفيضُ إلا ما هو حقٌّ، والنبيُّ يَنقلُه كما أُوحي إليه.",
+      "fa": "شریعتی که پیامبر می‌آورد، هرگز با عقل صریح در تعارض نیست، بلکه با آن هماهنگ است و آن را در قالب‌هایی تمثیلی برای مردم روشن می‌سازد. زیرا عقل فعال جز حق صادر نمی‌کند، و پیامبر آن را همان‌گونه که به او وحی شده، منتقل می‌کند.",
+      "en": "The law that the prophet brings does not contradict sound reason but accords with it and clarifies it for the people in analogical forms. For the Active Intellect bestows nothing but the truth, and the prophet conveys it as it was revealed to him."
+    }
+  },
+  {
+    "id": 55,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ حفظ الشريعة وظيفة الإمام",
+      "fa": "در اینکه حفظ شریعت وظیفهٔ امام است",
+      "en": "On the Imam's Duty to Preserve the Law"
+    },
+    "content": {
+      "ar": "إذا مضى النبيُّ، وجبَ أن يَخلُفَه إمامٌ يحفظُ الشريعةَ، ويُبيّنُ معانيها، ويَمنعُ التبديلَ والتحريفَ فيها، ويَحكمُ بها بين الناسِ بالعدلِ، ويَسيرُ على منهاجِ النبوّةِ.",
+      "fa": "پس از درگذشت پیامبر، باید امامی جانشین او شود که شریعت را حفظ کند، معانی آن را توضیح دهد، از تحریف و دگرگونی‌اش جلوگیری کند، و بر اساس آن با عدالت میان مردم حکم کند. او باید بر مسیر نبوت گام بردارد.",
+      "en": "When the prophet passes away, an imam must succeed him who preserves the law, explains its meanings, prevents alteration and distortion, judges among the people by it with justice, and follows the path of prophecy."
+    }
+  },
+  {
+    "id": 56,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ الإمام يجب أن يكون عالماً ومدبّراً",
+      "fa": "در اینکه امام باید هم عالم باشد و هم مدبّر",
+      "en": "On the Imam Needing to Be Both Learned and a Statesman"
+    },
+    "content": {
+      "ar": "الإمامُ لا يَكفي أن يَكونَ حافظًا للشريعةِ فقط، بل لا بُدَّ أن يَكونَ عالِمًا بالحكمةِ، قادِرًا على تدبيرِ المدينةِ، جامعًا بين العلمِ والعملِ، ليَسيرَ بالناسِ نحوَ الكمالِ كما كانَ يفعلُ النبيُّ.",
+      "fa": "امام تنها نباید نگهبان شریعت باشد، بلکه باید عالم به حکمت و توانمند در تدبیر امور شهر نیز باشد. او باید علم و عمل را در خود جمع کرده باشد تا بتواند مردم را همانند پیامبر به‌سوی کمال هدایت کند.",
+      "en": "It is not enough for the imam to be merely a guardian of the law; he must also be learned in wisdom, capable of governing the city, and uniting knowledge with practice, so that he may lead the people toward perfection as the prophet used to do."
+    }
+  },
+  {
+    "id": 57,
+    "section": "politics",
+    "title": {
+      "ar": "في ولاية الأفضل عند غياب الإمام الكامل",
+      "fa": "در اینکه اگر امام کامل نباشد بهترین موجودین حکومت کند",
+      "en": "On the Rule of the Best Available in the Absence of the Perfect Imam"
+    },
+    "content": {
+      "ar": "إذا لم يُوجَدْ في الزمانِ مَن يَجمعُ صفاتَ الإمامِ الكاملِ، وجبَ أن يُولّى من يَقرُبُ منه في العلمِ والعدالةِ والتدبيرِ، حتّى لا تَفسُدَ المدينةُ، ويبقى الناسُ على شيءٍ من النظامِ والاهتداءِ.",
+      "fa": "اگر در زمانی امامی که همهٔ صفات لازم را دارا باشد یافت نشود، باید کسی که نزدیک‌ترین به او در علم، عدالت و تدبیر است حکومت کند، تا شهر دچار فساد نگردد و مردم همچنان در مسیر نظم و هدایت باقی بمانند.",
+      "en": "If no one possessing all the qualities of the perfect imam can be found in a given age, then the one nearest to him in knowledge, justice, and governance must be given authority, so that the city does not fall into corruption and the people remain on some course of order and guidance."
+    }
+  },
+  {
+    "id": 58,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ الحكم غير الصالح يسقط المدينة",
+      "fa": "در اینکه حکومت نادرست سبب سقوط مدینه می‌شود",
+      "en": "On Unfit Governance Causing the Fall of the City"
+    },
+    "content": {
+      "ar": "إذا تَولّى الحُكمَ من ليسَ أهلًا له، وكانَ جاهلًا أو ظالمًا أو غافلًا عن الغايةِ الإنسانيّةِ، انقلبتِ المدينةُ من فاضلةٍ إلى جاهلةٍ أو فاسقةٍ أو ضالّةٍ، وتحوّلَ الناسُ عن السعادةِ إلى الشقاءِ.",
+      "fa": "اگر کسی بر سر حکومت آید که شایستگی ندارد—چه جاهل باشد، چه ظالم، یا بی‌توجه به هدف انسانی—مدینهٔ فاضله به مدینه‌ای جاهله، فاسقه یا ضاله تبدیل می‌شود، و مردم از مسیر سعادت به‌سوی بدبختی و شقاوت منحرف می‌گردند.",
+      "en": "If someone unfit assumes governance — whether ignorant, unjust, or heedless of the human end — the Virtuous City is transformed into an ignorant, wicked, or errant city, and the people are diverted from happiness toward misery."
+    }
+  },
+  {
+    "id": 59,
+    "section": "politics",
+    "title": {
+      "ar": "في إمكان إصلاح المدن غير الفاضلة",
+      "fa": "در اینکه مدینه‌های غیر فاضله قابل اصلاح‌اند",
+      "en": "On the Possibility of Reforming Non-Virtuous Cities"
+    },
+    "content": {
+      "ar": "المدنُ الجاهلةُ والفاسقةُ والضالّةُ يمكنُ إصلاحُها إذا وُجِدَ في أهلِها استعدادٌ، وقامَ فيهم رجلٌ حكيمٌ يَعرِفُ الشريعةَ والحكمةَ، فيُعلّمُهم ويُهذّبُهم ويَنقلُهم بالتدريجِ إلى الكمالِ.",
+      "fa": "مدینه‌های جاهله، فاسقه و ضاله قابل اصلاح‌اند، اگر در میان مردم آمادگی وجود داشته باشد و مردی حکیم که شریعت و حکمت را بشناسد، در میان‌شان برخیزد. او با آموزش و تهذیب تدریجی، می‌تواند آن‌ها را به‌سوی کمال و مدینهٔ فاضله هدایت کند.",
+      "en": "The ignorant, wicked, and errant cities can be reformed if there is readiness among their people and a wise man arises among them who knows both law and wisdom. Through gradual teaching and moral refinement, he can lead them toward perfection and the Virtuous City."
+    }
+  },
+  {
+    "id": 60,
+    "section": "politics",
+    "title": {
+      "ar": "في وظيفة الحكيم الاجتماعية",
+      "fa": "در اینکه وظیفهٔ حکیم راهبری فکری جامعه است",
+      "en": "On the Social Duty of the Sage"
+    },
+    "content": {
+      "ar": "الحكيمُ لا يَقتصرُ على طلبِ الكمالِ لنفسِه، بل يَسعى لإصلاحِ غيرِه، فيُعلّمُ ويُرشدُ، ويَضعُ القوانينَ، ويُشيرُ على الملوكِ، ويَهدي الناسَ إلى السعادةِ، فهو قائدٌ فكريٌّ وروحيٌّ للمدينة.",
+      "fa": "حکیم تنها به‌دنبال کمال شخصی نیست، بلکه برای اصلاح دیگران نیز تلاش می‌کند: آموزش می‌دهد، راهنمایی می‌کند، قانون وضع می‌نماید، به پادشاهان مشورت می‌دهد و مردم را به‌سوی سعادت هدایت می‌کند. او پیشوایی فکری و معنوی برای جامعه است.",
+      "en": "The sage does not limit himself to seeking his own perfection but strives to reform others. He teaches, guides, legislates, counsels rulers, and leads the people toward happiness. He is the intellectual and spiritual leader of the city."
+    }
+  },
+  {
+    "id": 61,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ الحكمة أساس العدل",
+      "fa": "در اینکه حکمت زمینه‌ساز عدالت است",
+      "en": "On Wisdom as the Foundation of Justice"
+    },
+    "content": {
+      "ar": "بالحكمةِ تُعرَفُ مراتبُ الناسِ وحقوقُهم، وتُوضَعُ القوانينُ التي تُناسِبُ طبائعَهم، فبها يَتحقّقُ العدلُ، ويَنالُ كلُّ ذي حقٍّ حقَّه، ويَسيرُ النظامُ على وجهٍ مستقيمٍ نحوَ السعادةِ العامّةِ.",
+      "fa": "از طریق حکمت، مراتب و حقوق مردم شناخته می‌شود، و قوانینی مطابق با طبیعت ایشان وضع می‌گردد. در نتیجه، عدالت تحقق می‌یابد، هر صاحب‌حقی به حق خود می‌رسد، و نظم جامعه در مسیر درست به‌سوی سعادت عمومی حرکت می‌کند.",
+      "en": "Through wisdom the ranks and rights of people are known, and laws suited to their natures are established. Through it justice is realized, every rightful person receives their due, and the order of society proceeds rightly toward the general happiness."
+    }
+  },
+  {
+    "id": 62,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ العدل شرط بقاء المدينة",
+      "fa": "در اینکه عدالت شرط بقاء مدینهٔ فاضله است",
+      "en": "On Justice as the Condition for the City's Survival"
+    },
+    "content": {
+      "ar": "العدلُ هو الذي يُثبّتُ أركانَ المدينةِ الفاضلةِ، ويَمنعُ التنازعَ والفسادَ، فإذا اختلّ العدلُ، اضطربَ النظامُ، وتفرّقتِ الآراءُ، وزالَ التعاونُ، فانهدمتِ المدينةُ وسَقَطت عن رتبةِ الفضلِ.",
+      "fa": "عدالت ستون استوار مدینهٔ فاضله است و از نزاع و فساد جلوگیری می‌کند. اگر عدالت دچار اختلال شود، نظم جامعه به‌هم می‌ریزد، دیدگاه‌ها پراکنده می‌گردد، همکاری از میان می‌رود، و مدینه فرو می‌پاشد و از مقام فضیلت سقوط می‌کند.",
+      "en": "Justice is what secures the pillars of the Virtuous City and prevents strife and corruption. If justice is disrupted, order is disturbed, opinions scatter, cooperation ceases, and the city collapses and falls from the rank of virtue."
+    }
+  },
+  {
+    "id": 63,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ التعاون أساس قوام المدينة",
+      "fa": "در اینکه تعاون و همیاری اساس قوام مدینه است",
+      "en": "On Cooperation as the Basis of the City's Stability"
+    },
+    "content": {
+      "ar": "الناسُ في المدينةِ الفاضلةِ يَتعاونونَ كلٌّ بحسبِ طبعِه ووظيفتِه، فلا يَستغني أحدٌ عن أحدٍ، بل يَحتاجُ بعضُهم إلى بعضٍ، ويَكملُ بعضُهم بعضًا، فبذلكَ تَتحقّقُ الوحدةُ والسعادةُ العامّةُ.",
+      "fa": "مردم در مدینهٔ فاضله با یکدیگر همکاری می‌کنند، هر یک بر اساس طبیعت و وظیفه‌اش. هیچ‌کس از دیگری بی‌نیاز نیست، بلکه همه به هم وابسته‌اند و یکدیگر را کامل می‌کنند. از این راه، وحدت و سعادت عمومی تحقق می‌یابد.",
+      "en": "The people of the Virtuous City cooperate, each according to their nature and function. No one is self-sufficient; rather, they all need one another and complete one another. Through this, unity and general happiness are realized."
+    }
+  },
+  {
+    "id": 64,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ المحبة رابطة المدينة الفاضلة",
+      "fa": "در اینکه محبت پیونددهندهٔ اجزای مدینه است",
+      "en": "On Love as the Bond of the Virtuous City"
+    },
+    "content": {
+      "ar": "المحبّةُ التي تنشأُ عن معرفةِ الغايةِ الواحدةِ، هي التي تَربطُ بينَ أهلِ المدينةِ الفاضلةِ، فتَجعلُهم يعملونَ كالجسدِ الواحدِ، ويُضحّونَ لمصلحةِ الكلِّ، لأنّهم يَرَونَ سعادتَهم في سعادةِ غيرِهم.",
+      "fa": "محبتی که از شناخت هدف مشترک پدید می‌آید، عامل پیوند میان اهل مدینهٔ فاضله است. این محبت آن‌ها را چون یک پیکر می‌سازد، به‌گونه‌ای که برای خیر جمعی فداکاری می‌کنند، چون سعادت خویش را در سعادت دیگران می‌بینند.",
+      "en": "The love that arises from knowledge of a common goal is what binds the people of the Virtuous City together, making them act as one body. They sacrifice for the collective good because they see their own happiness in the happiness of others."
+    }
+  },
+  {
+    "id": 65,
+    "section": "politics",
+    "title": {
+      "ar": "في أنّ المدينة الفاضلة مرآة النظام الكوني",
+      "fa": "در اینکه مدینهٔ فاضله آینه‌ای از نظم آسمانی است",
+      "en": "On the Virtuous City as a Mirror of Cosmic Order"
+    },
+    "content": {
+      "ar": "المدينةُ الفاضلةُ تُشبِهُ النظامَ الكونيَّ، كما أنّ العقولَ تُدبّرُ الأفلاكَ وتُفيضُ عليها، كذلكَ الرئيسُ يدبّرُ المدينةَ، ويُفيضُ الحكمةَ على أهلِها، فتصيرُ المدينةُ صورةً أرضيّةً للعالمِ الأعلى.",
+      "fa": "مدینهٔ فاضله شبیه نظام آسمانی است؛ همان‌گونه که عقول، افلاک را تدبیر و بر آن‌ها فیض می‌رسانند، رئیس مدینه نیز امور شهر را سامان می‌دهد و حکمت را به مردم افاضه می‌کند. بدین‌سان، مدینهٔ فاضله بازتابی زمینی از جهان اعلی می‌گردد.",
+      "en": "The Virtuous City resembles the cosmic order. Just as the intellects govern the celestial spheres and bestow emanation upon them, so the leader governs the city and bestows wisdom upon its people. Thus the Virtuous City becomes an earthly reflection of the higher world."
+    }
+  },
+  {
+    "id": 66,
+    "section": "eschatology",
+    "title": {
+      "ar": "في غاية المدينة الفاضلة: التشبّه بالعقول المفارقة",
+      "fa": "در اینکه غایت نهایی تشبّه به عقول مفارق است",
+      "en": "On the Ultimate Goal: Assimilation to the Separate Intellects"
+    },
+    "content": {
+      "ar": "غايةُ المدينةِ الفاضلةِ أن يَبلغَ أهلُها إلى التشبّهِ بالعقولِ المفارقةِ، في المعرفةِ والسلوكِ، حتى تَصيرَ نفوسُهم نورانيّةً، وتَتّصلَ بالعقلِ الفعّالِ، فيَحيَوا حياةً عقليّةً أبديةً.",
+      "fa": "هدف نهایی مدینهٔ فاضله این است که مردم آن در معرفت و رفتار، به عقول مفارق شبیه شوند؛ تا جایی که نفوس‌شان نورانی گردد و با عقل فعال پیوند یابد، و بدین‌سان، زندگی‌ای عقلانی و جاودانه داشته باشند.",
+      "en": "The ultimate goal of the Virtuous City is for its people to attain assimilation to the separate intellects in knowledge and conduct, until their souls become luminous and are conjoined with the Active Intellect, thereby living an eternal intellectual life."
+    }
+  },
+  {
+    "id": 67,
+    "section": "eschatology",
+    "title": {
+      "ar": "في أنّ الموت انتقال لا فناء",
+      "fa": "در اینکه مرگ فنا نیست بلکه انتقال است",
+      "en": "On Death as Transition, Not Annihilation"
+    },
+    "content": {
+      "ar": "الموتُ عندَ أهلِ المدينةِ الفاضلةِ ليسَ فناءً، بل هو انتقالٌ من الحياةِ الحسّيةِ إلى الحياةِ العقليّةِ، حيثُ تَبقى النفسُ المتهذّبةُ المتّصلةُ بالعقلِ الفعّالِ في نورٍ دائمٍ وسعادةٍ سرمديّةٍ.",
+      "fa": "مرگ نزد اهل مدینهٔ فاضله نابودی نیست، بلکه گذر از زندگی حسی به زندگی عقلی است؛ جایی که نفسِ تهذیب‌شده و متصل به عقل فعال، در نوری جاودانه و سعادتی همیشگی باقی می‌ماند.",
+      "en": "Death for the people of the Virtuous City is not annihilation but a transition from sensible life to intellectual life, where the purified soul conjoined with the Active Intellect remains in everlasting light and eternal happiness."
+    }
+  },
+  {
+    "id": 68,
+    "section": "eschatology",
+    "title": {
+      "ar": "في مصير النفوس غير المهذّبة",
+      "fa": "در اینکه نفوس ناپاک پس از مرگ در رنج باقی می‌مانند",
+      "en": "On the Fate of Unpurified Souls"
+    },
+    "content": {
+      "ar": "النفوسُ التي لم تَتهذّبْ، ولم تَتّصلْ بالعقلِ الفعّالِ، تبقى بعدَ الموتِ في ظلمةِ الجهلِ، وتَعيشُ في خيالاتٍ مؤلمةٍ، ولا تَبلغُ إلى السعادةِ، بل تَكونُ في عذابٍ باطنٍ دائمٍ.",
+      "fa": "نفوسی که تهذیب نشده‌اند و با عقل فعال پیوند نیافته‌اند، پس از مرگ در تاریکی جهل باقی می‌مانند، در خیالاتی رنج‌آور به‌سر می‌برند و به سعادت نمی‌رسند؛ بلکه دچار عذابی درونی و همیشگی می‌شوند.",
+      "en": "Souls that have not been purified and have not conjoined with the Active Intellect remain after death in the darkness of ignorance. They dwell in painful imaginings and do not attain happiness but suffer a perpetual inner torment."
+    }
+  },
+  {
+    "id": 69,
+    "section": "eschatology",
+    "title": {
+      "ar": "في أنّ بقاء النفس مشروط بفعليتها العقلية",
+      "fa": "در اینکه بقای نفس وابسته به فعلیت عقلانی اوست",
+      "en": "On the Soul's Survival Being Contingent on Intellectual Actuality"
+    },
+    "content": {
+      "ar": "النفسُ لا تَبقى بعدَ الموتِ إلا إذا صارتْ عقلاً بالفعلِ، فالنفسُ الهيولانيّةُ تفنى، أمّا النفسُ التي نالتْ الكمالَ العقليَّ، فتَبقى وتَسعدُ، لأنّها صارتْ شبيهةً بالعقولِ المفارقةِ.",
+      "fa": "نفس تنها در صورتی پس از مرگ باقی می‌ماند که به‌صورت عقل بالفعل درآید. نفس هیولانی (نابالغ و مادی‌محور) نابود می‌شود، اما نفسی که به کمال عقلانی رسیده، باقی می‌ماند و به سعادت می‌رسد، زیرا به عقول مفارق شبیه شده است.",
+      "en": "The soul survives after death only if it has become an actual intellect. The material (hylic) soul perishes, but the soul that has attained intellectual perfection survives and attains happiness, for it has become similar to the separate intellects."
+    }
+  },
+  {
+    "id": 70,
+    "section": "eschatology",
+    "title": {
+      "ar": "في أنّ غاية الفلسفة السعادة الأبدية",
+      "fa": "در اینکه غایت نهایی فلسفه سعادت ابدی است",
+      "en": "On the Ultimate Purpose of Philosophy Being Eternal Happiness"
+    },
+    "content": {
+      "ar": "غايةُ الفلسفةِ ليستْ مجرّدَ المعرفةِ، بل إيصالُ الإنسانِ إلى السعادةِ الأبديّةِ، وذلكَ لا يَحصُلُ إلا بتهذيبِ النفسِ، والتشبّهِ بالعقولِ، والاتّصالِ بالعقلِ الفعّالِ، فالفيلسوفُ الحقيقيُّ هو الذي يَعيشُ للحقِّ ويموتُ عليه.",
+      "fa": "هدف نهایی فلسفه صرفاً دانایی نیست، بلکه رساندن انسان به سعادت جاودانه است. این هدف تنها با تهذیب نفس، شباهت یافتن به عقول مفارق و پیوند با عقل فعال حاصل می‌شود. فیلسوف واقعی کسی است که برای حق زندگی می‌کند و با آن از دنیا می‌رود.",
+      "en": "The ultimate purpose of philosophy is not mere knowledge but bringing the human being to eternal happiness. This is achieved only through the purification of the soul, assimilation to the intellects, and conjunction with the Active Intellect. The true philosopher is one who lives for the truth and dies upon it."
+    }
+  }
+]
