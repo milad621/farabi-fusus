@@ -3,7 +3,7 @@ import bookData from "@/content/book-description.json";
 import type { Chapter, BookMetadata, Theme } from "./types";
 
 const chapters = chaptersData as Chapter[];
-const metadata = bookData as BookMetadata;
+const metadata = bookData as unknown as BookMetadata;
 
 export function getAllChapters(): Chapter[] {
   return chapters;

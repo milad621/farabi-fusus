@@ -4,8 +4,8 @@
   "description": "A responsive, multilingual web application presenting **Fusus al-Hikam** (Bezels of Wisdom) by Abu Nasr al-Farabi — 70 philosophical chapters on metaphysics, theology, and political philosophy, in Arabic, Persian, and English.",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
     "start": "next start",
     "lint": "next lint"
   },
@@ -20,6 +20,9 @@
     "url": "https://github.com/milad621/farabi-fusus/issues"
   },
   "homepage": "https://github.com/milad621/farabi-fusus#readme",
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "next": "^16.1.6",
     "react": "^19.2.4",
