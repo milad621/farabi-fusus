@@ -2,6 +2,8 @@
 
 A responsive, multilingual web application presenting **Fusus al-Hikam** (Bezels of Wisdom) by Abu Nasr al-Farabi — 70 philosophical chapters on metaphysics, theology, and political philosophy, in Arabic, Persian, and English.
 
+**Live app:** [https://farabi-fusus.vercel.app](https://farabi-fusus.vercel.app)
+
 ## About
 
 This project aims to make al-Farabi's profound philosophical work accessible through a modern, beautifully designed Progressive Web App (PWA). Read the complete treatise chapter by chapter in three languages with offline support and mobile installation.
@@ -72,7 +74,7 @@ After deployment, run a Lighthouse audit (Chrome DevTools → **Lighthouse** tab
 ## Development Status
 
 ✅ **Phases 0–4 Complete** — Repository, app, chapters, search, PWA  
-✅ **Phase 6** — Production build verified; ready for Vercel deploy
+✅ **Phase 6** — Deployed at [farabi-fusus.vercel.app](https://farabi-fusus.vercel.app)
 
 ## License
 

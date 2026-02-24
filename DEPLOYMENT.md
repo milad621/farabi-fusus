@@ -1,5 +1,9 @@
 # Deployment Checklist (Phase 6)
 
+## Live app
+
+**https://farabi-fusus.vercel.app**
+
 ## Pre-deploy (done)
 
 - [x] Production build passes: `npm run build`
@@ -13,7 +17,8 @@
 2. **Add New** → **Project** → select **farabi-fusus**.
 3. Leave defaults (Build: `npm run build`, Output: Next.js).
 4. Click **Deploy**.
-5. Your app will be at `https://farabi-fusus-*.vercel.app` (or your custom name).
+5. Your app will be at `https://farabi-fusus-*.vercel.app` (or your custom name).  
+   **Current production URL:** [https://farabi-fusus.vercel.app](https://farabi-fusus.vercel.app)
 
 ## After first deploy
 
